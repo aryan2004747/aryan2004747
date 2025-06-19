@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryan Kumar
 
-<!--
-**aryan2004747/aryan2004747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) | 1st Year Student at Government Engineering College, Kishanganj  
+💻 Currently learning C and Python  
+🚀 Aspiring AI/ML Engineer | Focused on problem-solving and real-world projects  
+📚 Passionate about coding, reading books, and exploring AI  
+📫 Reach me at: aryankumar20092004@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Programming: C (Learning), Python (Starting Soon)
+- Tools: MS Office, Internet Basics, File Handling
+
+## 📁 Projects (Coming Soon)
+- 💡 C-based Calculator (Console App)
+- 📝 To-Do List in Python (Upcoming)
+
+---
+
+## 📌 Hobbies
+- 📖 Reading motivational and tech books  
+- 🎵 Listening to music while coding
